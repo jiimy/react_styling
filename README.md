@@ -4,21 +4,6 @@
 * * *
 * * *
 
-프롤로그
-  scss
-    mixin,extend  
-  react
-  react에서 주로 사용되는 2가지의 스타일링 
-- scss와 styled의 비교 
-┗ 코드비교
-┗ styled의 단점
-┗ scss의 단점
-- 서로의 단점을 보완해보자. 
--
-
-* * *
-* * *
-
 # 당신의 Speacial한 Style을 위하여
 
 
