@@ -72,6 +72,8 @@
   8.1 next에서의 scss 
     8.1.1 컴포넌트 1:1 방식
       next가 아닌 환경에서는 scss를 바로 import 하면되지만, next에서는 xx.module.scss를 사용해야 한다. 이 module은 next가 아니어도 사용할 수 있지만, 사용할 경우 코드작성이 더 필요하며 해쉬처리가 되어 추적이 불편하다. 
+    8.1.1.1 css module - xx.module.scss 
+   	scss이나 해쉬처리에
     8.1.2 layout 방식 
       전역으로 사용할 시에는 기존처럼 scss을 그대로 사용할 수 있다. 
     scss를 사용시 결과적으로 프로젝트의 규모, 성격을 파악 후 1:1 방식을 사용할지, layout 방식을 사용할 지 고민이 필요하다.
